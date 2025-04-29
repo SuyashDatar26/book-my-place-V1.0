@@ -56,5 +56,5 @@ The Venue Booking App is a role-based Flutter application that allows users to b
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/venue-booking-app.git
+git clone https://github.com/SuyashDatar26/book-my-place-V1.0/tree/master
 cd venue-booking-app
