@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36444302462",
+    "project_id": "project1-280af",
+    "storage_bucket": "project1-280af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36444302462:android:92319152f81373e7ef7c2f",
+        "android_client_info": {
+          "package_name": "com.example.book_my_place"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4VbDPcEEJGvEcJqWG7_muKSpFNHpg728"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
